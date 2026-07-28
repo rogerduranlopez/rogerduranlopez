@@ -1,16 +1,25 @@
-## Hi there 👋
+# Roger Duran López
 
-<!--
-**rogerduranlopez/rogerduranlopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Industrial Engineering · Industrial AI · Automation · Operational Data
 
-Here are some ideas to get you started:
+I build AI-powered engineering systems that improve industrial operations through automation, data, and intelligent decision support.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Focus
+
+- Industrial AI
+- Agentic AI
+- Operations Automation
+- Smart Manufacturing
+- Data Engineering
+- Machine Learning
+
+## Portfolio
+
+🌐 https://rogerduran.me
+
+Discover my projects, case studies, and engineering work.
+
+## Connect
+
+- Portfolio: https://rogerduran.me
+- LinkedIn: https://www.linkedin.com/in/roger-duran-lopez/
