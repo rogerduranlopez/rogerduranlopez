@@ -38,7 +38,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
 **Data & Machine Learning**
 
@@ -74,16 +73,6 @@
 Building practical solutions combining AI, automation, data pipelines and human-in-the-loop decision making.
 
 → **[rogexindustries.com](https://rogexindustries.com)**
-
----
-
-#### 🎯 AI Tender Intelligence
-
-An end-to-end system that automatically discovers, filters and evaluates public tenders.
-
-`Public procurement data → Filtering → Local LLM scoring → Prioritization → Airtable`
-
-Built using **Python, Ollama, LLMs and Airtable**, with automated scoring based on technical fit, sector, location, budget and deadline.
 
 ---
 
