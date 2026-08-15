@@ -1,25 +1,111 @@
-# Roger Duran López
+<h1 align="center">Hi, I'm Roger 👋</h1>
 
-Industrial Engineering · Industrial AI · Automation · Operational Data
+<h3 align="center">Industrial Engineering · Data & AI · Applied Automation</h3>
 
-I build AI-powered engineering systems that improve industrial operations through automation, data, and intelligent decision support.
+<p align="center">
+  I build <b>AI and data-driven systems</b> to automate workflows, improve operations
+  <br/>and turn complex processes into practical, measurable solutions.
+</p>
 
-## Areas of Focus
+<p align="center">
+  <a href="https://rogerduran.me">
+    <img src="https://img.shields.io/badge/Website-rogerduran.me-2563eb?style=flat-square&logo=firefox&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/roger-duran-lopez/">
+    <img src="https://img.shields.io/badge/LinkedIn-Roger_Duran-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/rogerduranlopez">
+    <img src="https://img.shields.io/badge/GitHub-rogerduranlopez-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=rogerduranlopez&style=flat-square&color=2563eb&label=Profile+views" alt="Profile views"/>
+</p>
 
-- Industrial AI
-- Agentic AI
-- Operations Automation
-- Smart Manufacturing
-- Data Engineering
-- Machine Learning
+---
 
-## Portfolio
+### 🧭 About me
 
-🌐 https://rogerduran.me
+- 🎓 **Industrial Engineer** currently pursuing a Master's in Industrial Engineering, specializing in **IT for Industry**.
+- 🤖 Focused on **Applied AI, Data and Automation** for real operational problems.
+- ⚙️ Interested in intelligent systems that improve **operations, decision-making and industrial processes**.
+- 🧠 I work across the full pipeline: **data → analysis → AI/ML → automation → deployment**.
+- 🔬 Exploring **Agentic AI, LLM-powered workflows and industrial AI systems**.
+- 🚀 Co-building **ROGEX AI**, where we develop practical AI automation and intelligence solutions.
+- 🌐 Projects and work → **[rogerduran.me](https://rogerduran.me)**.
 
-Discover my projects, case studies, and engineering work.
+### 🛠️ Tech Stack
 
-## Connect
+**Languages & Data**
 
-- Portfolio: https://rogerduran.me
-- LinkedIn: https://www.linkedin.com/in/roger-duran-lopez/
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+**Data & Machine Learning**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**AI & Automation**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Analytics & Industrial Tools**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=powerapps&logoColor=white)
+
+**Development & Deployment**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+### 🚀 Featured Projects
+
+#### 🤖 ROGEX AI
+**Applied AI & automation systems for real business workflows.**
+
+Building practical solutions combining AI, automation, data pipelines and human-in-the-loop decision making.
+
+→ **[rogexindustries.com](https://rogexindustries.com)**
+
+---
+
+#### 🎯 AI Tender Intelligence
+
+An end-to-end system that automatically discovers, filters and evaluates public tenders.
+
+`Public procurement data → Filtering → Local LLM scoring → Prioritization → Airtable`
+
+Built using **Python, Ollama, LLMs and Airtable**, with automated scoring based on technical fit, sector, location, budget and deadline.
+
+---
+
+#### 🧠 Fatigue Prediction with Machine Learning
+
+End-to-end machine learning system designed to estimate fatigue using wearable data.
+
+`Fitbit API → SQLite → Data preprocessing → ML models → Prediction → LLM recommendations → API`
+
+Built using **Python, scikit-learn, LightGBM and FastAPI**.
+
+---
+
+### 🎯 Current Focus
+
+```text
+Industrial Engineering
+        ↓
+Data & Operations
+        ↓
+Applied AI
+        ↓
+Automation
+        ↓
+Intelligent Decision Systems
