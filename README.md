@@ -32,7 +32,7 @@
 - ⚙️ Interested in intelligent systems that improve **operations, decision-making and industrial processes**.
 - 🧠 I work across the full pipeline: **data → analysis → AI/ML → automation → deployment**.
 - 🔬 Exploring **Agentic AI, LLM-powered workflows and industrial AI systems**.
-- 🚀 Co-building **ROGEX AI**, where we develop practical AI automation and intelligence solutions.
+- 🚀 Co-building **RogerAI**, where we develop practical AI automation and intelligence solutions.
 - 🌐 Projects and work → **[rogerduran.me](https://rogerduran.me)**.
 
 ### 🛠️ Tech Stack
@@ -71,28 +71,3 @@
 Building practical solutions combining AI, automation, data pipelines and human-in-the-loop decision making.
 
 → **[rogexai.tech](https://rogexai.tech/)**
-
----
-
-#### 🧠 Fatigue Prediction with Machine Learning
-
-End-to-end machine learning system designed to estimate fatigue using wearable data.
-
-`Fitbit API → SQLite → Data preprocessing → ML models → Prediction → LLM recommendations → API`
-
-Built using **Python, scikit-learn, LightGBM and FastAPI**.
-
----
-
-### 🎯 Current Focus
-
-```text
-Industrial Engineering
-        ↓
-Data & Operations
-        ↓
-Applied AI
-        ↓
-Automation
-        ↓
-Intelligent Decision Systems
