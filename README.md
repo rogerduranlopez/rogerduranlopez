@@ -11,6 +11,9 @@
   <a href="https://rogerduran.me">
     <img src="https://img.shields.io/badge/Website-rogerduran.me-2563eb?style=flat-square&logo=firefox&logoColor=white" alt="Website"/>
   </a>
+  <a href="https://rogexai.tech/">
+    <img src="https://img.shields.io/badge/RogexAI-rogexai.tech-7c3aed?style=flat-square&logo=openai&logoColor=white" alt="RogexAI"/>
+  </a>
   <a href="https://www.linkedin.com/in/roger-duran-lopez/">
     <img src="https://img.shields.io/badge/LinkedIn-Roger_Duran-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -67,7 +70,7 @@
 
 Building practical solutions combining AI, automation, data pipelines and human-in-the-loop decision making.
 
-→ **[rogexindustries.com](https://rogexindustries.com)**
+→ **[rogexai.tech](https://rogexai.tech/)**
 
 ---
 
